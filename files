@@ -310,6 +310,7 @@ chronometer-pause actions
 chronometer-reset actions
 chronometer-start actions
 circular-arrow-shape actions
+clipman apps
 cloud-download actions
 cloud-upload actions
 code-block actions
@@ -381,6 +382,8 @@ depth16to8 actions
 depth8to16 actions
 description actions
 desktop places
+device_pci devices
+device_usb devices
 dfrac actions
 dialog-apply actions
 dialog-cancel actions
@@ -457,6 +460,7 @@ document-send actions
 document-share actions
 document-sign actions
 document-swap actions
+dolphin apps
 dontknow actions
 download-later actions
 drag-surface actions
@@ -652,6 +656,7 @@ falkon apps
 favorite actions
 favorite-genres-amarok actions
 feed-subscribe actions
+fheroes2 apps
 file-roller apps
 filename-and-amarok actions
 filename-bpm-amarok actions
@@ -1061,6 +1066,7 @@ item actions
 join actions
 journal-new actions
 junction actions
+julius apps
 kapman apps
 karbon apps
 kate apps
@@ -1148,6 +1154,7 @@ kr_mountman actions
 kr_syncbrowse_off actions
 kr_syncbrowse_on actions
 kr_unselect actions
+krita apps
 kshisen apps
 ksnapshot apps
 kstars apps
@@ -1372,6 +1379,7 @@ move actions
 mtpaint apps
 multimedia-player devices
 multimedia-player-ipod-mini-blue devices
+multimedia-video-player apps
 multimedia-volume-control apps
 muon apps
 muondiscover apps
@@ -1469,12 +1477,15 @@ office-chart-scatter actions
 oilpaint actions
 okteta apps
 okular apps
+openarena apps
+openmw apps
 openshot apps
 opera apps
 org.flameshot.Flameshot apps
 org.gnome.Epiphany apps
 org.kde.neochat apps
 org.kde.neochat.tray apps
+org.xfce.xfwm4-tweaks apps
 otter-browser apps
 overexposure actions
 overflow-menu actions
@@ -1518,6 +1529,7 @@ ppsspp apps
 precondition actions
 preferences-desktop categories
 preferences-desktop-accessibility apps
+preferences-desktop-filetype-association apps
 preferences-desktop-font apps
 preferences-desktop-font-installer apps
 preferences-desktop-keyboard apps
@@ -1563,6 +1575,7 @@ qbittorrent apps
 qclipper apps
 qdbusviewer apps
 qelectrotech apps
+qemu apps
 qmmp apps
 qmplay apps
 qpdfview apps
@@ -1591,6 +1604,7 @@ resource-calendar-child-insert actions
 resource-calendar-insert actions
 resource-group-new actions
 restoration actions
+retroarch apps
 reverse actions
 roll actions
 rss actions
@@ -1605,6 +1619,7 @@ run-clean actions
 run-install actions
 scanner devices
 scribus apps
+sdlpop apps
 search actions
 security-high actions
 security-high status
@@ -1718,6 +1733,7 @@ system-help categories
 system-lock-screen actions
 system-log-out actions
 system-log-out-rtl actions
+system-reboot actions
 system-run actions
 system-run apps
 system-run-v2 actions
@@ -2054,6 +2070,8 @@ view-visibile actions
 view-visible actions
 view-web-browser-dom-tree actions
 viewhtml actions
+virt-manager apps
+virt-viewer apps
 virtual-desktops actions
 virtualbox apps
 virtualbox-hdd mimetypes
@@ -2106,6 +2124,7 @@ x-office-presentation mimetypes
 x-office-spreadsheet mimetypes
 x-shape-text actions
 xchat apps
+xfce-nomail apps
 xfce-trash_empty places
 xml-attribute-delete actions
 xml-element-new actions
